@@ -1,0 +1,14 @@
+
+body{
+  font-family: 'Arial';
+  background-color: #b6a387;
+  color: #353029;
+}
+
+.img-block{
+  display: flex;
+}
+
+.mood-img{
+  width: 50%;
+}
